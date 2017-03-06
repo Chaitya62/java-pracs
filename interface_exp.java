@@ -60,7 +60,7 @@ class Main{
 	public static void main(String[] args){
 		 result R = new result();
 		 R.get_rollnumber(108);
-		 R.get_marks(13,2,42);
+		 R.get_marks(13,24,42);
 		 R.display();	 
 	
 	}
